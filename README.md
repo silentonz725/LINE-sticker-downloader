@@ -14,3 +14,9 @@ pip install -r requirements.txt
 python3 main.py
 ```
 
+## Screenshot
+
+![terminal](https://i.loli.net/2020/11/03/r25Z7oyBHaM6Ezi.png)
+
+![folder](https://i.loli.net/2020/11/03/AauZ4VxbMzgRf9I.png)
+
